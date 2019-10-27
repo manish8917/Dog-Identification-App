@@ -189,11 +189,11 @@ The use of 'transfer learning - Resnet50 model' to implement an algorithm for a 
 
 Here are examples of the algorithms:
 
-![Screenshot](result1.png)
+![Screenshot](result2.png)
 
 
 
-![Screenshot](result4.png)
+![Screenshot](result3.png)
 
 
 # A blog [post](https://medium.com/@ahmadashish/write-an-algorithm-for-a-dog-identification-app-3a581bf12a13)
