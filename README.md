@@ -200,4 +200,4 @@ Here are examples of the algorithms:
 ![Screenshot](result1.png)
 
 
-# A blog [post](https://medium.com/@ahmadashish/write-an-algorithm-for-a-dog-identification-app-3a581bf12a13)
+# The step-wise thought process of the building of model and its results is available here in my blog [post](https://medium.com/@manishislampur1988/fun-with-cnn-app-to-identify-breed-of-your-doggy-9d3dbd06c513)
