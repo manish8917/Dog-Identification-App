@@ -196,4 +196,8 @@ Here are examples of the algorithms:
 ![Screenshot](result3.png)
 
 
+
+![Screenshot](result1.png)
+
+
 # A blog [post](https://medium.com/@ahmadashish/write-an-algorithm-for-a-dog-identification-app-3a581bf12a13)
