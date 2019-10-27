@@ -12,7 +12,7 @@ Though I have completed several guided projects, here I got a chance to show off
  
 # The Road Ahead
 
-We break the notebook into separate steps.  Feel free to use the links below to navigate the notebook.
+The complete work has been divided into separate steps as below:
 
 * [Step 0](#step0): Import Datasets
 * [Step 1](#step1): Detect Humans
