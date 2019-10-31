@@ -1,6 +1,6 @@
 # Data Scientist Nanodegree / Convolutional Neural Networks
 
-# Project: Write an Algorithm for a Dog Identification App
+# Project: Fun with CNN for a Dog Identification App
 
 # Project Overview
 
