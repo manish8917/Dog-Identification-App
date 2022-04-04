@@ -1,5 +1,3 @@
-# Data Scientist Nanodegree / Convolutional Neural Networks
-
 # Project: Fun with CNN for a Dog Identification App
 
 # Project Overview
