@@ -1,4 +1,4 @@
-# Project: Fun with CNN for a Dog Identification App
+# Project: Use of CNN and Transfer Learning for a Dog Identification App
 
 # Project Overview
 
